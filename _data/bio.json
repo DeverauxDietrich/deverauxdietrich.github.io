@@ -61,20 +61,21 @@
       "name": "Languages and Frameworks",
       "level": "",
       "keywords": [
-        "C",
-        "C++",
+        "HTML",
+        "CSS",
         "Java",
         "Javascript",
         "Assembly",
         "Common Lisp"
+        "Python"
       ]
     },
     {
       "name": "Toolsets/OS",
       "level": "",
       "keywords": [
-        "MacOS",
-        "Ubuntu",
+        "Windows",
+        "Linux/Ubuntu",
         "Git/GitHub",
         "g++",
         "TI LaunchPad"
