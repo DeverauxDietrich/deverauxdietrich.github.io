@@ -4,25 +4,25 @@
     "label": "Developer | Programmer",
     "picture": "https://techfolios.github.io/template/images/molly.png",
     "email": "deverauxdean@icloud.com",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2020.",
+    "phone": "+27 62 824 1355",
+    "website": "https://deverauxdietrich.github.io",
+    "summary": "I am a self taught developer/programmer, with a super keen eye for detail and a strong passion for everything internet.",
     "location": {
       "address": "",
-      "postalCode": "96822",
-      "city": "Honolulu",
-      "countryCode": "USA",
-      "region": "Hawaii"
+      "postalCode": "",
+      "city": "Johannesburg South",
+      "countryCode": "South Africa",
+      "region": "Gauteng"
     },
     "profiles": [
       {
         "network": "github",
-        "username": "mmaluhia",
-        "url": "http://github.com/changeme"
+        "username": "DeveraxDietrich",
+        "url": "https://github.com/DeverauxDietrich"
       },
       {
         "network": "linkedin",
-        "username": "mollymaluhia",
+        "username": "Deveraux Dietrich",
         "url": "http://linkedin.com/in/changeme"
       },
       {
