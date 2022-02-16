@@ -89,6 +89,18 @@
       ]
     }
   ],
+  "Certification": [
+    {
+      "institution": "University of Michigan",
+      "area": "Course on Web Development, Computer Programming",
+      "studyType": "Long distance specialization course",
+      "startDate": "2020",
+      "endDate": "2021",
+      "gpa": "Pass",
+      "courses": [
+      ]
+    }
+  ],
   "work": [
     {
       "company": "AF-Squared Global Energy Solutions",
