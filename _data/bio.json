@@ -6,7 +6,7 @@
     "email": "deverauxdean@icloud.com",
     "phone": "+27 62 824 1355",
     "website": "https://deverauxdietrich.github.io",
-    "summary": "I am a self taught developer/programmer, with a super keen eye for detail and a strong passion for everything internet.",
+    "summary": "I am a self taught developer/programmer, with a super keen eye for detail. Currently persuing Microsoft Azure and MongoDB Certifications.",
     "location": {
       "address": "",
       "postalCode": "",
@@ -29,14 +29,14 @@
   },
   "interests": [
     {
-      "name": "internet of things",
+      "name": "IoT",
       "keywords": [
         "Arduino",
         "TI MSP430"
       ]
     },
     {
-      "name": "mathematics",
+      "name": "programming",
       "keywords": [
       ]
     },
@@ -46,7 +46,7 @@
       ]
     },
     {
-      "name": "playing video games",
+      "name": "video games",
       "keywords": [
       ]  
     },
@@ -58,11 +58,11 @@
       "keywords": [
         "HTML",
         "CSS",
-        "Java",
         "Javascript",
-        "Assembly",
-        "Common Lisp",
-        "Python",
+        "Bootstrap",
+        "React.js",
+        "Node.js",
+        "Git",
       ]
     },
     {
@@ -72,17 +72,17 @@
         "Windows",
         "Linux/Ubuntu",
         "Git/GitHub",
-        "g++",
-        "TI LaunchPad"
+        "VS Code",
+        "Sublime"
       ]
     }
   ],
   "education": [
     {
-      "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
-      "studyType": "B.S.",
-      "startDate": "2013-09-01",
+      "institution": "University of the People (UoP), based in the USA",
+      "area": "Computer Science (expected end, 2023)",
+      "studyType": "B.S. long distance/part-time studying",
+      "startDate": "2021-11-01",
       "endDate": "Present",
       "gpa": "",
       "courses": [
