@@ -89,9 +89,19 @@
       ]
     },
     {
-      "institution": "University of Michigan",
-      "area": "Course on Web Development, Computer Programming",
-      "studyType": "Long distance specialization course",
+      "institution": "University of Michigan (Specialized Certificate)",
+      "area": "Course on Web Development and Computer Programming",
+      "studyType": "Long distance specialization course through the Coursera platform",
+      "startDate": "2020",
+      "endDate": "2021",
+      "gpa": "",
+      "courses": [
+      ]
+    },
+    {
+      "institution": "FreeCodeCamp",
+      "area": "Multiple courses on Full-stack development (1000+ hours)",
+      "studyType": "Self-paced modules with project based assignments",
       "startDate": "2020",
       "endDate": "2021",
       "gpa": "",
