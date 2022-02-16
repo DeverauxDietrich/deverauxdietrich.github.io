@@ -27,7 +27,7 @@
       },
     ]
   },
-  "certifications": [
+  "interests": [
     {
       "name": "IoT",
       "keywords": [
@@ -87,9 +87,7 @@
       "gpa": "",
       "courses": [
       ]
-    }
-  ],
-  "certs": [
+    },
     {
       "institution": "University of Michigan",
       "area": "Course on Web Development, Computer Programming",
