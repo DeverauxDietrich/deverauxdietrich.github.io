@@ -25,7 +25,7 @@ This clone also has a working authentication system with a sign in and sign out 
 
 TLDR for tech stack: React.js, React Router, React Context API and React Currency Format with Firebase.
 
-You can view the project live at  [Amazon Clone Website](clone-94bcd.web.app/).
+You can view the project live at  [Amazon Clone Website](https://clone-94bcd.web.app/).
 
 
 
