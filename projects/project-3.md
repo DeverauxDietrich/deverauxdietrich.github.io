@@ -9,7 +9,7 @@ date: 2021-04-13
 labels:
   - Frontend
   - HTML, CSS
-  - 
+  - Replica
 summary: A replica of Netflix's landing page.
 ---
 
