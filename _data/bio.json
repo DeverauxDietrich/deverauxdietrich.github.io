@@ -23,16 +23,14 @@
       {
         "network": "linkedin",
         "username": "Deveraux Dietrich",
-        "url": "http://linkedin.com/in/changeme"
+        "url": "http://www.linkedin.com/in/deveraux-dietrich-frontend-developer/"
       },
     ]
   },
   "interests": [
     {
-      "name": "IoT",
+      "name": "frontend developmnent",
       "keywords": [
-        "Arduino",
-        "TI MSP430"
       ]
     },
     {
@@ -46,7 +44,7 @@
       ]
     },
     {
-      "name": "video games",
+      "name": "computer science",
       "keywords": [
       ]  
     },
@@ -99,11 +97,21 @@
       ]
     },
     {
-      "institution": "FreeCodeCamp",
-      "area": "Multiple courses on Full-stack development (1000+ hours)",
+      "institution": "FreeCodeCamp and The Odin Project",
+      "area": "Multiple courses on Full-stack development (400+ hours)",
       "studyType": "Self-paced modules with project based assignments",
       "startDate": "2020",
       "endDate": "2021",
+      "gpa": "",
+      "courses": [
+      ]
+    },
+    {
+      "institution": "Google/Coursera",
+      "area": "Certified Google IT Support Specialist",
+      "studyType": "Self-paced modules with project based assignments",
+      "startDate": "2019",
+      "endDate": "2020",
       "gpa": "",
       "courses": [
       ]
@@ -112,13 +120,15 @@
   "work": [
     {
       "company": "AF-Squared Global Energy Solutions",
-      "position": "Web Developer",
+      "position": "Lead IT Support Specialist",
       "startDate": "2019-05-01",
-      "endDate": "2021",
-      "summary": "Lead developer and technical specialist",
+      "endDate": "2022",
+      "summary": "Lead Technical specialist",
       "highlights": [
-        "Maintain, update, and oversee all website tasks",
-        "Troubleshoot software, hardware and networking issues over the phone and in person"
+        "Implemented Secure Network Protocols.",
+        "Troubleshoot software, hardware and networking issues over the phone and in person",
+        "Staff email administration",
+        "Managed data back-ups"
       ]
     },
     {
