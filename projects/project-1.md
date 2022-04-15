@@ -29,11 +29,9 @@ This clone also has a working authentication system with a sign in and sign out 
 
 On the sign in page:
 
-1.Enter a random email (e.g: 12312@1313.com)
-2.Enter a random password.
-3.Click on "Create your Amazon Account".
-4.And you're good to go!
-5.Please note that this project is not mobile friendly yet. I'll look into making it responsive whenever I can. For now, I'd recommend viewing this project from an actual desktop browser.
+Enter a random email (e.g: 12312@1313.com). Enter a random password. Click on "Create your Amazon Account".
+And you're good to go! 
+Please note that this project is not mobile friendly yet. I'll look into making it responsive whenever I can. For now, I'd recommend viewing this project from an actual desktop browser.
 
 
 
