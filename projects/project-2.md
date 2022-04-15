@@ -25,7 +25,7 @@ A super simple mock-up landing page for an app launch. I added a few animations 
 
 ## Click the play button to see something cool! :D
 
-Link to live project - [Landing Page](httpsd://dev-app-landing-page.netlify.app/).
+Link to live project - [Landing Page](https://dev-app-landing-page.netlify.app/).
 
 
 
