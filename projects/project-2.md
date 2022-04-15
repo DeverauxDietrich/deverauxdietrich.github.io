@@ -1,27 +1,41 @@
 ---
 layout: project
 type: project
-image: images/vacay-square.png
-title: Vacay
-permalink: projects/vacay
+image: images/amazon-clone.png
+title: Amazon Clone
+permalink: projects/amazon-clone
 # All dates must be YYYY-MM-DD format!
-date: 2015-12-15
+date: 2022-04-06
 labels:
-  - Javascript
-  - Meteor
-  - MongoDB
-  - GitHub
-summary: A responsive web application for travel planning that my team developed in ICS 415.
+  - React.js
+  - React Context API
+  - JSE6
+summary: As part of an online bootcamp, our project happened to be a simple 3 page Amazon clone.
 ---
 
 <div class="ui small rounded images">
-  <img class="ui image" src="../images/app-landing-page(2).png">
+  <img class="ui image" src="../images/amazon-clone.png">
 </div>
 
-Vacay is a web application that I helped create as a team project in ICS 415, Spring 2015. The project helped me learn how to design and implement a responsive web site.
+# What an awesome project this was!
 
-Vacay is implemented using [Meteor](http://meteor.com), a JavaScript application platform. Within two weeks, we created a website that implements several types of reservations including flights, hotels, and car rentals.
+This project consists of the Amazon homepage, which includes a bunch of products which can be added to cart, or removed. The cart adds the total amount of items as well the cost of all items thanks to the react currency format.
 
-In this project I gained experience with full-stack web application design and associated technologies, including [MongoDB](http://mongodb.com) for database storage, the [Twitter Bootstrap](http://getbootstrap.com/) CSS Framework for the user interface, and Javascript for both client and server-side programming. 
- 
-Source: <a href="https://github.com/theVacay/vacay"><i class="large github icon"></i>theVacay/vacay</a>
+This clone also has a working authentication system with a sign in and sign out feature. The sign in (email & password) was super simple thanks to the Firebase configs.
+
+## TLDR for tech stack: React.js, React Router, React Context API and React Currency Format with Firebase.
+
+# How to test sign in features:
+
+On the sign in page:
+
+Enter a random email (e.g: 12312@1313.com). Enter a random password. Click on "Create your Amazon Account".
+And you're good to go! 
+Please note that this project is not mobile friendly yet. I'll look into making it responsive whenever I can. For now, I'd recommend viewing this project from an actual desktop browser.
+
+
+
+You can view the project live at  [Amazon Clone Website](https://clone-94bcd.web.app/).
+
+
+
