@@ -1,28 +1,28 @@
 ---
 layout: project
 type: project
-image: images/netflixsmall.png
-title: Netflix Landing Page
-permalink: projects/netflix-replica
+image: images/pricingsmall.png
+title: Responsive Pricing Panel
+permalink: projects/pricing-panel-assignment
 # All dates must be YYYY-MM-DD format!
-date: 2021-04-13
+date: 2022-03-31
 labels:
   - Frontend
   - HTML, CSS
-  - Replica
-summary: A replica of Netflix's landing page.
+  - Responsive
+summary: A small, yet awesome looking pricing panel.
 ---
 
 <div class="ui small rounded images">
-  <img class="ui image" src="../images/netflix-clone.png">
+  <img class="ui image" src="../images/pricing-panel.png">
 </div>
 
-# Netflix Landing Page Clone
+# Responsive Pricing Panel
 
-After learning a lot about HTML and CSS, I thought it would be a great idea to try and taake those skills, and apply them to recreating Netflix's landing page. It actually turned out quite well, even if I do say so myself! ;D
+I decided to complete a few projects from Colt Steele's Bootcamp, with the Pricing Panel being one of many to come! ;) While my job hunt continues, I need to make sure my web-dev skills are in top form!
 
 ## Tech stack: HTML and CSS.
 
 
-Link to live project - [Netflix Landing Page](https://netflixlander.netlify.app/).
+Link to live project - [Pricing Panel](https://pricing-panel1.netlify.app/).
 
