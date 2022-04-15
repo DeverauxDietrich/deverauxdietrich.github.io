@@ -21,7 +21,7 @@ summary: A simple, responsive app landing page.
 
 A super simple mock-up landing page for an app launch. I added a few animations for that extra razzle dazzle!
 
-## TLDR for tech stack: HTML, CSS and Javascript
+## Tech stack: HTML, CSS and Javascript
 
 ## Click the play button to see something cool! :D
 
