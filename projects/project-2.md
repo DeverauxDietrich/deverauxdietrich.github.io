@@ -1,9 +1,9 @@
 ---
 layout: project
 type: project
-image: images/amazon-clone.png
-title: Amazon Clone
-permalink: projects/amazon-clone
+image: images/apppage.png
+title: App Landing Page
+permalink: projects/app-landing-page
 # All dates must be YYYY-MM-DD format!
 date: 2022-04-08
 labels:
