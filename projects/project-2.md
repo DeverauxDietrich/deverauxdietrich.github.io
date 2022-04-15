@@ -14,7 +14,7 @@ summary: As part of an online bootcamp, our project happened to be a simple 3 pa
 ---
 
 <div class="ui small rounded images">
-  <img class="ui image" src="../images/app-landing-page(2).png">
+  <img class="ui image" src="../images/apppage.png">
 </div>
 
 # What an awesome project this was!
