@@ -9,7 +9,7 @@ date: 2022-04-08
 labels:
   - Frontend
   - HTML, CSS
-  - JavaScript
+  - Bootstrap
 summary: A simple, responsive app landing page.
 ---
 
@@ -21,7 +21,7 @@ summary: A simple, responsive app landing page.
 
 A super simple mock-up landing page for an app launch. I added a few animations for that extra razzle dazzle!
 
-## Tech stack: HTML, CSS and Javascript
+## Tech stack: HTML, CSS and Bootstrap
 
 ## Click the play button to see something cool! :D
 
