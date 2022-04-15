@@ -14,7 +14,7 @@ summary: A simple, responsive app landing page.
 ---
 
 <div class="ui small rounded images">
-  <img class="ui image" src="../images/apppage.png">
+  <img class="ui image" src="../images/app-landing-page.png">
 </div>
 
 # Responsive App Landing Page
